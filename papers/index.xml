@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Working Papers on </title>
-    <link>/papers/</link>
-    <description>Recent content in Working Papers on </description>
+    <title>Working Papers on Gaston Lopez</title>
+    <link>https://gaston-lopez.github.io/papers/</link>
+    <description>Recent content in Working Papers on Gaston Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gaston-lopez.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Governments Do Price Discrimination? Evidence from a Nationalization in the Argentina Gasoline Industry</title>
-      <link>/1/</link>
+      <link>https://gaston-lopez.github.io/1/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/1/</guid>
+      <guid>https://gaston-lopez.github.io/1/</guid>
       <description>We study the nationalization of YPF, Argentina’s leading gasoline company. We find that the nationalization led to lower gasoline prices, particularly for inelastic demand products, and varying price reductions across geographic regions, favoring con-sumers who have political ties with the firm. We develop and estimate a model of supply and demand of gasoline and recover the objective function of the State-Owned Enterprise (SOE), allowing for heterogeneity in how the SOE internalizes different groups of consumers and firms. Our analysis reveals a dual impact of the nationalization: reduced economic price discrimination, benefiting consumers on average and increasing total welfare, but increased political price discrimination, favoring particular groups over others based on political attributes. We then use the model to evaluate the firm’s response to policy alternatives, including privatization and regulations that limit SOEs’ discretion, to inform the current debate surrounding SOEs in different countries. We found that limiting government discretion effectively reduces political price discrimination but negatively affects overall welfare and government revenues. These findings shed light on the complexities of public provision, emphasizing the role of interest groups and politics in shaping government decision-making and their distributional consequences.</description>
     </item>
     
     <item>
       <title>Reducing Consumer Inertia in Tobacco Markets</title>
-      <link>/2/</link>
+      <link>https://gaston-lopez.github.io/2/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2/</guid>
+      <guid>https://gaston-lopez.github.io/2/</guid>
       <description>We explore the effects of reducing addiction and brand loyalty on tobacco consumption. Our study responds to the Federal Drug Administration and the World Health Organization&amp;rsquo;s initiatives to decrease consumer state dependence through nicotine caps and plain packaging. Our research shows that policies aiming at reducing consumer state dependence can backfire by increasing consumption through lower prices and making taxes less effective at reducing smoking prevalence. To reach this conclusion, we first develop a novel model of dynamic price competition that considers entry, exit, and consumer inertia. Crucially, we illustrate how to make this model empirically tractable by adopting a computationally efficient equilibrium solution. Solving the model for several consumer inertia parameters, we note that the relationship between inertia and consumption is non-monotonic and concave. We then leverage unique variation from the Uruguayan tobacco industry to show that both addiction and brand loyalty are relevant, and that firms consider consumers&amp;rsquo; inertia while making business decisions. Finally, we show that modest drops in consumer state dependence from our baseline estimates tend to decrease prices and increase aggregate consumption. However, completely eliminating inertia leads to higher prices without a substantial effect on the number of available products, which reduces aggregate consumption.</description>
     </item>
     
     <item>
       <title>Entry Under Demand Spillovers: Evidence from the Healthcare Industry</title>
-      <link>/3/</link>
+      <link>https://gaston-lopez.github.io/3/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/3/</guid>
+      <guid>https://gaston-lopez.github.io/3/</guid>
       <description> </description>
     </item>
     
