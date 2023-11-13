@@ -5,15 +5,15 @@
     <link>https://gaston-lopez.github.io/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 16:05:31 -0500</lastBuildDate><atom:link href="https://gaston-lopez.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gaston-lopez.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://gaston-lopez.github.io/posts/first/</link>
-      <pubDate>Wed, 04 Oct 2023 16:05:31 -0500</pubDate>
+      <title></title>
+      <link>https://gaston-lopez.github.io/wp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gaston-lopez.github.io/posts/first/</guid>
-      <description>This is heading one This is a heading two this is paragraph</description>
+      <guid>https://gaston-lopez.github.io/wp/</guid>
+      <description>Working Papers How Do Governments Engage in Price Discrimination? Evidence from a Large-Scale Nationalization (with Francisco Pareschi)
+State-owned enterprises (SOEs) have the potential to correct market failures, but they are also subject to the influence of politics and interest groups. We examine this trade-off in the context of the nationalization of the leading gasoline company in Argentina. Descriptive analysis suggests that pricing patterns changed after the nationalization. First, the government exerted less market power, charging lower prices on average and benefiting consumers.</description>
     </item>
     
   </channel>
